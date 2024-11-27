@@ -4,4 +4,4 @@ This project explores the implementation of reinforcement learning algorithms, s
 
 Key features include the use of epsilon-greedy exploration strategies, dynamic reward mechanisms, and comparative analysis of teacher-guided and independent learning. The project incorporates visualizations like reward trajectories and heatmaps to analyze the influence of teacher parameters on learning outcomes. This approach demonstrates the potential of integrating external guidance to improve agent learning in reinforcement learning environments.
 
-! [QL] (q-learning-graph.png)
+! [QL!] (q-learning-graph.png)
